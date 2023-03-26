@@ -1,0 +1,3 @@
+-- IN USED MULTI TIME VALUE ONLY SHOW THE 1ST ONE USING DISTINCT key-word
+SELECT DISTINCT student_name
+FROM student_current_money
